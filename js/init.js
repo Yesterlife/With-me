@@ -3,12 +3,12 @@
  */
 $(document).ready(function () {
     $('#typetitle').typeIt({
-        whatToType: ["Aloha", "欢迎访问mayuko.cn"],
+        whatToType: ["XIANG_BLQ", "欢迎访问 WITHME"],
         typeSpeed: 100,
         breakLines: false
     });
     $('#typeit').typeIt({
-        whatToType: "感谢来到这里",
+        whatToType: "所至有山海，感谢此处来",
         typeSpeed: 100,
         delayStart: 3000,
         showCursor: false
