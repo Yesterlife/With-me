@@ -3,7 +3,7 @@
  */
 $(document).ready(function () {
     $('#typetitle').typeIt({
-        whatToType: ["XIANG_BLQ", "いただきます WITHME"],
+        whatToType: ["XIANG_BLQ", "Welcome to Withme"],
         typeSpeed: 100,
         breakLines: false
     });
